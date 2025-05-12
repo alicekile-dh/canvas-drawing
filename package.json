@@ -1,8 +1,17 @@
 {
+  "name": "canvas-template",
+  "version": "1.0.0",
+  "repository": "git@github.com:elevenpassin/canvas-template.git",
+  "author": "Alice Kile",
+  "license": "MIT",
   "scripts": {
     "dev": "vite"
   },
   "devDependencies": {
-    "vite": "^6.3.5"
+    "vite": "^6.3.5",
+    "@eslint/js": "^9.26.0",
+    "eslint": "^9.26.0",
+    "globals": "^16.1.0",
+    "prettier": "^3.5.3"
   }
 }
