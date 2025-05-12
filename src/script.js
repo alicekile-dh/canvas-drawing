@@ -1,9 +1,9 @@
 import "./style.css";
 
-/* global fabric */
 
 const CANVAS_WIDTH = 700;
 const CANVAS_HEIGHT = 500;
+
 function draw() {
   const canvas = document.getElementById("canvas");
   canvas.width = CANVAS_WIDTH;
